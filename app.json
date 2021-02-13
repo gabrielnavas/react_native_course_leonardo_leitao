@@ -1,0 +1,12 @@
+{
+  "name": "test_genymotion",
+  "displayName": "test_genymotion",
+  "expo": {
+    "name": "test_genymotion",
+    "slug": "test_genymotion",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
